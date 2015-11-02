@@ -1,0 +1,9 @@
+E:\C#\X si 0\X si 0\bin\Release\X si 0.exe.config
+E:\C#\X si 0\X si 0\bin\Release\X si 0.exe
+E:\C#\X si 0\X si 0\bin\Release\X si 0.pdb
+E:\C#\X si 0\X si 0\obj\Release\X_si_0.Form1.resources
+E:\C#\X si 0\X si 0\obj\Release\X_si_0.Properties.Resources.resources
+E:\C#\X si 0\X si 0\obj\Release\X si 0.csproj.GenerateResource.Cache
+E:\C#\X si 0\X si 0\obj\Release\X si 0.exe
+E:\C#\X si 0\X si 0\obj\Release\X si 0.pdb
+E:\C#\X si 0\X si 0\obj\Release\X si 0.csprojResolveAssemblyReference.cache
